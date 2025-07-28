@@ -63,11 +63,11 @@ class Personal {
 }
 
 
+/*
 fun printPersonal(one: Personal?) {
     println("${one?.getName()} / ${one?.getAddress()} / ${one?.getTelephoneNumber()} / ${one?.getEmailAddress()}")
     println("hashCode: ${one.hashCode()}")
 }
-/*
 fun main() {
     // default constructor
     val me = Personal()
